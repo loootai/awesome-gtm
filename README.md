@@ -61,6 +61,7 @@ Code you can run yourself. Closed SaaS is out of scope here; see Data APIs for h
 - [google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) - Google Maps lead scraper driven by Claude Code, exports CSV with phones, emails and websites.
 - [headwater](https://github.com/HouseofLoops/headwater) - Self-hosted API for Google Maps, News, Trends and Autocomplete with normalised JSON.
 - [JobSpy](https://github.com/speedyapply/JobSpy) - Job scraper for LinkedIn, Indeed, Glassdoor and ZipRecruiter, useful as a hiring signal.
+- [looot-csv-enrich](https://github.com/loootai/looot-csv-enrich) - CLI that adds company, work email, email check, phone and title columns to a CSV through looot. Prints a quote first, runs inside a budget, reruns never pay twice.
 - [mailchecker](https://github.com/FGRibreau/mailchecker) - Cross-language detection of disposable and throwaway email domains.
 - [Scout](https://github.com/kiryano/Scout) - Scrapes Instagram, Twitch, TikTok and LinkedIn profiles, extracts emails from bios and verifies them over SMTP.
 - [validate-emails](https://github.com/centminmod/validate-emails) - Self-hosted script that cleans invalid addresses from a list, with several commercial verifier backends.
@@ -139,6 +140,7 @@ Wire data providers into automation you already run.
 - [langchain-looot](https://github.com/loootai/langchain-looot) - LangChain tools for looot: search the catalog, inspect a price, run, check balance.
 - [looot-action](https://github.com/loootai/looot-action) - GitHub Action that runs one looot operation and returns the result as JSON.
 - [looot-js](https://github.com/loootai/looot-js) - Typed TypeScript client for the looot REST API with no runtime dependencies.
+- [looot-n8n-workflows](https://github.com/loootai/looot-n8n-workflows) - Four importable n8n workflows on core nodes only (work email with verification, company research, signup ICP score, Google rank check), one looot credential.
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with AI features, self-hostable.
 - [n8n-nodes-looot](https://github.com/loootai/n8n-nodes-looot) - n8n community node for looot: search, inspect, run, get run, balance.
 
