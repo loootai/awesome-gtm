@@ -49,6 +49,9 @@ Sending, replying and tracking, once you have the list.
 
 - [b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template) - AI SDR template for B2B export with a 10-stage pipeline and multi-channel messaging.
 - [harvey](https://github.com/ethanplusai/harvey) - Autonomous sales agent on Claude Code that finds prospects, writes cold emails and handles replies.
+- [looot-attio](https://github.com/loootai/looot-attio) - Attio App SDK app with three record actions (enrich company, find work email, verify email) through looot, with the price shown before each lookup. Not yet in the Attio App Store.
+- [looot-hubspot](https://github.com/loootai/looot-hubspot) - HubSpot OAuth app with cards on contacts and companies and a workflow action that find a work email, verify it and enrich the company through looot. Needs its small Node backend deployed; not yet in the HubSpot Marketplace.
+- [looot-instantly](https://github.com/loootai/looot-instantly) - TypeScript CLI that finds and verifies work emails through looot and loads only the deliverable leads into an Instantly campaign. Dry run by default; needs a paid Instantly plan for its API.
 - [looot-lead-gen-agent](https://github.com/loootai/looot-lead-gen-agent) - Template agent that takes company domains, finds people by title, verifies emails and writes a CSV. Dry run by default.
 - [twenty](https://github.com/twentyhq/twenty) - Open-source CRM positioned as an alternative to Salesforce.
 - [twenty-app-looot](https://github.com/loootai/twenty-app-looot) - Twenty CRM app that finds a person's work email and fills a company's industry and size through looot, as record buttons and workflow actions. Not yet on npm.
