@@ -30,7 +30,9 @@ Self-hostable tables, lead finders and enrichment engines. Check each license be
 - [bricks](https://github.com/BraaMohammed/bricks) - Local Clay alternative combining AI agents, web scraping and browser automation.
 - [cubex](https://github.com/gurmohitghuman/cubex) - Self-hosted spreadsheet whose columns fill from AI prompts, API calls and webhooks.
 - [dataforge](https://github.com/Nuclear-Marmalade/dataforge) - Business data enrichment engine positioned as an open-source Apollo, ZoomInfo and Clearbit alternative.
+- [looot-local-leads](https://github.com/loootai/looot-local-leads) - Next.js and Supabase app for agencies that lists local businesses from Google Maps, scores their website gaps and finds a verified public email. Data through looot (pay per call).
 - [looot-tables](https://github.com/loootai/looot-tables) - Clay-style enrichment tables on Supabase that call looot for the data.
+- [looot-watchlist](https://github.com/loootai/looot-watchlist) - Next.js and Supabase account watchlist that turns news, matching job posts and pricing or careers page changes into a signal feed. Data through looot (pay per call).
 - [openbower](https://github.com/obris-dev/openbower) - Self-hostable Clay alternative with agentic workflows that turn raw signals into researched rows.
 - [OpenGTM](https://github.com/debpalash/OpenGTM) - Self-hosted Clay alternative for lead sourcing, enrichment waterfalls, buying signals and outbound.
 - [opengtm](https://github.com/buildingopen/opengtm) - Open-source alternative to Clay, Apollo and Semrush with lead generation, ICP scoring and outreach automation.
@@ -124,6 +126,7 @@ Skills and plugins that teach an agent a GTM workflow.
 - [gtm-cheat-codes](https://github.com/zapier/gtm-cheat-codes) - Field guide and installable skills for go-to-market teams using coding agents.
 - [gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) - Agent skills for go-to-market work on developer tools and AI products.
 - [gtm-eng-skills](https://github.com/getaero-io/gtm-eng-skills) - Ten skills for waterfall email enrichment, TAM building, signal discovery and job-change detection.
+- [gtm-skills](https://github.com/loootai/gtm-skills) - 15 GTM workflow skills (account brief, lookalike list, job-change and hiring signals, list hygiene) with looot job ids and a price per step.
 - [gtm-system](https://github.com/LaGrowthMachine/gtm-system) - Claude skills and an MCP server for sales teams, built around La Growth Machine campaigns.
 - [influencer-discovery](https://github.com/tigerless-labs/influencer-discovery) - Claude Code skill for influencer discovery and contact enrichment across 15 channels.
 - [linkedin-skills](https://github.com/Linked-API/linkedin-skills) - LinkedIn automation skills for agents: social selling and data extraction.
