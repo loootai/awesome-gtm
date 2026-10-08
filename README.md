@@ -63,6 +63,7 @@ Code you can run yourself. Closed SaaS is out of scope here; see Data APIs for h
 - [google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) - Google Maps lead scraper driven by Claude Code, exports CSV with phones, emails and websites.
 - [headwater](https://github.com/HouseofLoops/headwater) - Self-hosted API for Google Maps, News, Trends and Autocomplete with normalised JSON.
 - [JobSpy](https://github.com/speedyapply/JobSpy) - Job scraper for LinkedIn, Indeed, Glassdoor and ZipRecruiter, useful as a hiring signal.
+- [looot-chrome](https://github.com/loootai/looot-chrome) - Chrome side panel that enriches the company on the current tab, finds and verifies a work email and lists the tech stack through looot. Shows the price before each call, with a cap per call and per session.
 - [looot-csv-enrich](https://github.com/loootai/looot-csv-enrich) - CLI that adds company, work email, email check, phone and title columns to a CSV through looot. Prints a quote first, runs inside a budget, reruns never pay twice.
 - [mailchecker](https://github.com/FGRibreau/mailchecker) - Cross-language detection of disposable and throwaway email domains.
 - [Scout](https://github.com/kiryano/Scout) - Scrapes Instagram, Twitch, TikTok and LinkedIn profiles, extracts emails from bios and verifies them over SMTP.
@@ -113,6 +114,7 @@ Give an MCP client prospecting, SEO or web data.
 - [leadmagic-mcp](https://github.com/LeadMagic/leadmagic-mcp) - Local TypeScript MCP server for the LeadMagic API: email finder, validation and company enrichment.
 - [linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp) - MCP server that lets an assistant read data from and act on a LinkedIn account.
 - [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - MCP server for LinkedIn profiles, companies and jobs.
+- [looot-docker](https://github.com/loootai/looot-docker) - Dockerfiles for the looot CLI and the looot MCP stdio bridge, multi-arch, non-root, pinned by digest.
 - [looot-mcp](https://github.com/loootai/looot-mcp) - Install steps and registry entry for the looot remote MCP server (one token, 2,500+ data endpoints).
 - [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) - SEO MCP server plus open SEO and GEO skills for Claude: keyword research, rank tracking and audits.
 - [semrush-ai-tool](https://github.com/springvoiceswell/semrush-ai-tool) - MCP server and CLI for Semrush keyword, domain and backlink data. Needs a Semrush account.
@@ -151,6 +153,7 @@ Wire data providers into automation you already run.
 
 Numbers for choosing between providers.
 
+- [catalog-galaxy](https://github.com/loootai/catalog-galaxy) - Dated JSON snapshot of the looot catalog (16 categories, 230 platforms, 2,071 jobs with the cheapest listed price) and a 3D map of it on GitHub Pages.
 - [company-enrichment](https://github.com/openbenchmarks-labs/company-enrichment) - Company enrichment benchmark.
 - [people-search-api-benchmark-public](https://github.com/CompanyEnrich/people-search-api-benchmark-public) - Reproducible benchmark of B2B people-search APIs on finding current CEOs and founders.
 
