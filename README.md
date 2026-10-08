@@ -51,6 +51,7 @@ Sending, replying and tracking, once you have the list.
 - [harvey](https://github.com/ethanplusai/harvey) - Autonomous sales agent on Claude Code that finds prospects, writes cold emails and handles replies.
 - [looot-lead-gen-agent](https://github.com/loootai/looot-lead-gen-agent) - Template agent that takes company domains, finds people by title, verifies emails and writes a CSV. Dry run by default.
 - [twenty](https://github.com/twentyhq/twenty) - Open-source CRM positioned as an alternative to Salesforce.
+- [twenty-app-looot](https://github.com/loootai/twenty-app-looot) - Twenty CRM app that finds a person's work email and fills a company's industry and size through looot, as record buttons and workflow actions. Not yet on npm.
 - [warmbly](https://github.com/warmbly/warmbly) - Open-source B2B cold outreach and email warmup service.
 
 ## Enrichment and email finding
@@ -144,8 +145,11 @@ Wire data providers into automation you already run.
 - [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n workflow templates.
 - [langchain-looot](https://github.com/loootai/langchain-looot) - LangChain tools for looot: search the catalog, inspect a price, run, check balance.
 - [looot-action](https://github.com/loootai/looot-action) - GitHub Action that runs one looot operation and returns the result as JSON.
+- [looot-clay-templates](https://github.com/loootai/looot-clay-templates) - Copy-paste recipes for Clay's HTTP API column: find a work email, verify it and enrich the company through looot, with the cost per row.
 - [looot-js](https://github.com/loootai/looot-js) - Typed TypeScript client for the looot REST API with no runtime dependencies.
+- [looot-make](https://github.com/loootai/looot-make) - Make custom app for looot as source files: API key connection, ten modules and a script that imports it into a Make account. Not yet in Make's app directory.
 - [looot-n8n-workflows](https://github.com/loootai/looot-n8n-workflows) - Four importable n8n workflows on core nodes only (work email with verification, company research, signup ICP score, Google rank check), one looot credential.
+- [looot-zapier](https://github.com/loootai/looot-zapier) - Zapier Platform CLI app for looot: find work email, verify email, enrich company, run any operation, plus a run-finished trigger. Deploy it as a private integration.
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with AI features, self-hostable.
 - [n8n-nodes-looot](https://github.com/loootai/n8n-nodes-looot) - n8n community node for looot: search, inspect, run, get run, balance.
 
