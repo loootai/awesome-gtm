@@ -31,6 +31,7 @@ Self-hostable tables, lead finders and enrichment engines. Check each license be
 - [cubex](https://github.com/gurmohitghuman/cubex) - Self-hosted spreadsheet whose columns fill from AI prompts, API calls and webhooks.
 - [dataforge](https://github.com/Nuclear-Marmalade/dataforge) - Business data enrichment engine positioned as an open-source Apollo, ZoomInfo and Clearbit alternative.
 - [looot-local-leads](https://github.com/loootai/looot-local-leads) - Next.js and Supabase app for agencies that lists local businesses from Google Maps, scores their website gaps and finds a verified public email. Data through looot (pay per call).
+- [looot-monitor](https://github.com/loootai/looot-monitor) - Next.js and Supabase app that watches brand and competitor mentions, Google results, page changes and reviews, with one alert inbox and a monthly cap per monitor. Data through looot (pay per call).
 - [looot-tables](https://github.com/loootai/looot-tables) - Clay-style enrichment tables on Supabase that call looot for the data.
 - [looot-watchlist](https://github.com/loootai/looot-watchlist) - Next.js and Supabase account watchlist that turns news, matching job posts and pricing or careers page changes into a signal feed. Data through looot (pay per call).
 - [openbower](https://github.com/obris-dev/openbower) - Self-hostable Clay alternative with agentic workflows that turn raw signals into researched rows.
