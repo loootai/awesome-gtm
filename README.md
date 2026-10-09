@@ -92,6 +92,7 @@ Rank tracking, audits, keyword research and self-hosted SERP access.
 - [crawlseo](https://github.com/crawlseo/crawlseo) - SEO monitoring dashboard combining Search Console, a site crawler and Core Web Vitals.
 - [FreeCrawl-SEO-Tool](https://github.com/kemalai/FreeCrawl-SEO-Tool) - Site crawler for SEO audits that targets 1M+ URLs on one machine.
 - [jev-seo](https://github.com/AkashPriyadarshii/jev-seo) - Rust SEO and GEO toolkit with site audits, crawls, AI citation checks and rank drift.
+- [looot-seo](https://github.com/loootai/looot-seo) - Next.js and Supabase SEO workspace with rank tracking, keyword research, SERP snapshots, competitors and backlinks, and a quote with a cap before every paid refresh. Data through looot (pay per call).
 - [looot-seo-monitor](https://github.com/loootai/looot-seo-monitor) - Checks Google rankings for a keyword list through looot and writes a Markdown report. Python, dry run by default.
 - [open-seo](https://github.com/every-app/open-seo) - Open-source alternative to Semrush and Ahrefs.
 - [openserp](https://github.com/karust/openserp) - Self-hosted SERP API over browser-rendered Google, Bing, Yandex, Baidu and DuckDuckGo.
