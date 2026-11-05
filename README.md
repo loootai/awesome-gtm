@@ -181,6 +181,7 @@ Other curated lists worth reading.
 
 Hosted providers with official docs. Most need an account and an API key. looot is one entry here among several; the others are direct providers you can call without it.
 
+- [AgentSEO](https://www.agentseo.dev/docs/api-reference) - REST API for SEO and answer engine optimization (AEO), with structured SERP data, keyword research, rank tracking and Google AI Overview evidence (one-time trial credits, paid plans for ongoing use).
 - [Apollo API](https://docs.apollo.io) - People and company search and enrichment from the Apollo database.
 - [DataForSEO](https://docs.dataforseo.com/v3/) - SERP, keyword, backlink and on-page APIs, pay as you go.
 - [Exa](https://docs.exa.ai) - Search API built for AI agents, with content retrieval.
