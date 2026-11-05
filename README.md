@@ -107,6 +107,7 @@ Agents that plan searches, read sources and write cited reports. Useful for acco
 - [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - Self-hosted web UI for a deep-research agent that outputs cited reports.
 - [deep-researcher-agent](https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent) - NVIDIA reference blueprint for building a deep research agent.
 - [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep research over private data, written in Python.
+- [EarlyLore](https://earlylore.com/) - Research workspace for founders: study real SaaS products, revenue signals and competitor changes (pricing, positioning, features) before you build.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - Autonomous research agent that works with any LLM provider.
 - [hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Turns Claude Code or Codex into a deep research agent that collects and synthesizes web sources.
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) - Agent skill that researches a topic across Reddit, X, YouTube, Hacker News and the web, then writes a summary.
