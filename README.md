@@ -165,6 +165,7 @@ Numbers for choosing between providers.
 
 - [catalog-galaxy](https://github.com/loootai/catalog-galaxy) - Dated JSON snapshot of the looot catalog (16 categories, 230 platforms, 2,071 jobs with the cheapest listed price) and a 3D map of it on GitHub Pages.
 - [company-enrichment](https://github.com/openbenchmarks-labs/company-enrichment) - Company enrichment benchmark.
+- [datacircle](https://datacircle.dev) - We benchmark all the GTM APIs and we put the results on our website; the data is at https://github.com/waynehamadi/datacircle.
 - [people-search-api-benchmark-public](https://github.com/CompanyEnrich/people-search-api-benchmark-public) - Reproducible benchmark of B2B people-search APIs on finding current CEOs and founders.
 
 ## Related lists
