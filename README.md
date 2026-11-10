@@ -190,6 +190,9 @@ Hosted providers with official docs. Most need an account and an API key. looot 
 - [People Data Labs](https://docs.peopledatalabs.com) - Person and company enrichment and search APIs.
 - [Serper](https://serper.dev) - Google SERP API with JSON results.
 - [Tavily](https://docs.tavily.com) - Search and extract API for agents.
+- [YouTube Captions API by FlashData](https://flashdata.dev/docs/sources/youtube_captions) - Existing YouTube captions, defaulting to manual tracks, for content research; no ASR, translation or automatic fallback; requires an API key and paid Credits.
+- [YouTube Channel API by FlashData](https://flashdata.dev/docs/sources/youtube_channel) - Available channel details and video records for channel research; requires an API key and paid Credits.
+- [YouTube Transcript API by FlashData](https://flashdata.dev/docs/sources/youtube_transcript) - Existing timestamped caption tracks for content research; no ASR, translation or automatic fallback; requires an API key and paid Credits.
 
 ## Contributing
 
