@@ -190,6 +190,7 @@ Hosted providers with official docs. Most need an account and an API key. looot 
 - [People Data Labs](https://docs.peopledatalabs.com) - Person and company enrichment and search APIs.
 - [Serper](https://serper.dev) - Google SERP API with JSON results.
 - [Tavily](https://docs.tavily.com) - Search and extract API for agents.
+- [YouTube Suggestions API by FlashData](https://flashdata.dev/docs/sources/youtube_suggestions) - YouTube autocomplete suggestions for keyword and topic research; requires an API key and paid Credits.
 
 ## Contributing
 
