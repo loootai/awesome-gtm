@@ -185,6 +185,9 @@ Hosted providers with official docs. Most need an account and an API key. looot 
 - [DataForSEO](https://docs.dataforseo.com/v3/) - SERP, keyword, backlink and on-page APIs, pay as you go.
 - [Exa](https://docs.exa.ai) - Search API built for AI agents, with content retrieval.
 - [Firecrawl](https://docs.firecrawl.dev) - Hosted scrape, crawl and search API that returns Markdown or JSON.
+- [Google Places API by FlashData](https://flashdata.dev/docs/sources/google_places) - Place search results and available business details for local research; contact fields may be absent; requires an API key and paid Credits.
+- [Google Shopping API by FlashData](https://flashdata.dev/docs/sources/google_shopping) - Shopping search results and available offer fields for product research; no stock or checkout-price guarantee; requires an API key and paid Credits.
+- [Google Videos API by FlashData](https://flashdata.dev/docs/sources/google_videos) - Google video search result links and available metadata for video research; requires an API key and paid Credits.
 - [Hunter](https://hunter.io/api-documentation) - Domain search, email finder and email verifier APIs.
 - [looot](https://docs.looot.ai) - One token and one prepaid balance for 2,500+ endpoints from 90+ providers, price shown before each run, failed calls free.
 - [People Data Labs](https://docs.peopledatalabs.com) - Person and company enrichment and search APIs.
