@@ -130,6 +130,7 @@ Give an MCP client prospecting, SEO or web data.
 
 Skills and plugins that teach an agent a GTM workflow.
 
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - MIT-licensed plugin for site audits, link checks, content plans and schema markup. Requires Claude Code access.
 - [google-maps-agent-skills](https://github.com/gmapsscraper/google-maps-agent-skills) - Skills for Google Maps lead generation: scrape businesses, extract emails, analyze competitors.
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) - Library of growth and GTM skills plus data APIs for Claude Code, Codex and Cursor.
 - [gtm-cheat-codes](https://github.com/zapier/gtm-cheat-codes) - Field guide and installable skills for go-to-market teams using coding agents.
