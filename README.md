@@ -190,6 +190,9 @@ Hosted providers with official docs. Most need an account and an API key. looot 
 - [People Data Labs](https://docs.peopledatalabs.com) - Person and company enrichment and search APIs.
 - [Serper](https://serper.dev) - Google SERP API with JSON results.
 - [Tavily](https://docs.tavily.com) - Search and extract API for agents.
+- [YouTube Extended Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search_extended) - YouTube video search results with a requested limit up to 700; fewer results may be available and pricing differs from standard search; requires an API key and paid Credits.
+- [YouTube Metadata API by FlashData](https://flashdata.dev/docs/sources/youtube_metadata) - Available video metadata for video SEO and content research; requires an API key and paid Credits.
+- [YouTube Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search) - YouTube video search results for topic research, with a requested limit up to 20; result count is not guaranteed; requires an API key and paid Credits.
 
 ## Contributing
 
