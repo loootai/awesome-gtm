@@ -186,6 +186,7 @@ Hosted providers with official docs. Most need an account and an API key. looot 
 - [Exa](https://docs.exa.ai) - Search API built for AI agents, with content retrieval.
 - [Firecrawl](https://docs.firecrawl.dev) - Hosted scrape, crawl and search API that returns Markdown or JSON.
 - [Hunter](https://hunter.io/api-documentation) - Domain search, email finder and email verifier APIs.
+- [LeadSets](https://www.leadsets.ai/docs) - People and company search, enrichment and work-email verification. Unlimited B2B Contact Data, starting from $29/mo.
 - [looot](https://docs.looot.ai) - One token and one prepaid balance for 2,500+ endpoints from 90+ providers, price shown before each run, failed calls free.
 - [People Data Labs](https://docs.peopledatalabs.com) - Person and company enrichment and search APIs.
 - [Serper](https://serper.dev) - Google SERP API with JSON results.
