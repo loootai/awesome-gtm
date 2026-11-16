@@ -138,6 +138,7 @@ Skills and plugins that teach an agent a GTM workflow.
 - [gtm-skills](https://github.com/loootai/gtm-skills) - 15 GTM workflow skills (account brief, lookalike list, job-change and hiring signals, list hygiene) with looot job ids and a price per step.
 - [gtm-system](https://github.com/LaGrowthMachine/gtm-system) - Claude skills and an MCP server for sales teams, built around La Growth Machine campaigns.
 - [influencer-discovery](https://github.com/tigerless-labs/influencer-discovery) - Claude Code skill for influencer discovery and contact enrichment across 15 channels.
+- [leadsets-skills](https://github.com/leadsets/leadsets-skills) - Open-source GTM skills for prospect lists, enrichment, verification and account research, using Unlimited B2B Contact Data (paid plans; a free 1,000-record tier is available).
 - [linkedin-skills](https://github.com/Linked-API/linkedin-skills) - LinkedIn automation skills for agents: social selling and data extraction.
 - [looot-skills](https://github.com/loootai/looot-skills) - Agent skills for 20 looot data jobs plus a base skill. Install with npx skills add.
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and agents: CRO, copywriting, SEO, analytics.
