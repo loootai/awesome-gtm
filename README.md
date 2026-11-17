@@ -185,6 +185,7 @@ Hosted providers with official docs. Most need an account and an API key. looot 
 - [DataForSEO](https://docs.dataforseo.com/v3/) - SERP, keyword, backlink and on-page APIs, pay as you go.
 - [Exa](https://docs.exa.ai) - Search API built for AI agents, with content retrieval.
 - [Firecrawl](https://docs.firecrawl.dev) - Hosted scrape, crawl and search API that returns Markdown or JSON.
+- [Founder Email Finder](https://apify.com/intropi/company-contacts-tech-lookup/api) - Apify Actor that reads company websites and returns founder or owner names, a founder email with a confidence label, shared inboxes, phones and tech stack. Needs an Apify account, paid per result.
 - [Hunter](https://hunter.io/api-documentation) - Domain search, email finder and email verifier APIs.
 - [looot](https://docs.looot.ai) - One token and one prepaid balance for 2,500+ endpoints from 90+ providers, price shown before each run, failed calls free.
 - [People Data Labs](https://docs.peopledatalabs.com) - Person and company enrichment and search APIs.
