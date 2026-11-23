@@ -184,6 +184,7 @@ Hosted providers with official docs. Most need an account and an API key. looot 
 - [Apollo API](https://docs.apollo.io) - People and company search and enrichment from the Apollo database.
 - [DataForSEO](https://docs.dataforseo.com/v3/) - SERP, keyword, backlink and on-page APIs, pay as you go.
 - [Exa](https://docs.exa.ai) - Search API built for AI agents, with content retrieval.
+- [FairValid](https://fairvalid.com/en/help/api) - Email verification and FairMatch lead discovery over REST and hosted MCP; account required, shared free monthly credits and paid top-ups.
 - [Firecrawl](https://docs.firecrawl.dev) - Hosted scrape, crawl and search API that returns Markdown or JSON.
 - [Hunter](https://hunter.io/api-documentation) - Domain search, email finder and email verifier APIs.
 - [looot](https://docs.looot.ai) - One token and one prepaid balance for 2,500+ endpoints from 90+ providers, price shown before each run, failed calls free.
