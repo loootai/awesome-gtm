@@ -125,6 +125,12 @@ Give an MCP client prospecting, SEO or web data.
 - [looot-mcp](https://github.com/loootai/looot-mcp) - Install steps and registry entry for the looot remote MCP server (one token, 2,500+ data endpoints).
 - [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) - SEO MCP server plus open SEO and GEO skills for Claude: keyword research, rank tracking and audits.
 - [semrush-ai-tool](https://github.com/springvoiceswell/semrush-ai-tool) - MCP server and CLI for Semrush keyword, domain and backlink data. Needs a Semrush account.
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ## Agent skills and Claude Code plugins
 
