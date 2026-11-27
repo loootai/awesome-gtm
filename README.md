@@ -182,6 +182,7 @@ Other curated lists worth reading.
 Hosted providers with official docs. Most need an account and an API key. looot is one entry here among several; the others are direct providers you can call without it.
 
 - [Apollo API](https://docs.apollo.io) - People and company search and enrichment from the Apollo database.
+- [BatchData](https://developer.batchdata.com) - U.S. property and owner data API with a hosted MCP server: property search and lookup, skip tracing, and address and phone verification. Needs a paid account.
 - [DataForSEO](https://docs.dataforseo.com/v3/) - SERP, keyword, backlink and on-page APIs, pay as you go.
 - [Exa](https://docs.exa.ai) - Search API built for AI agents, with content retrieval.
 - [Firecrawl](https://docs.firecrawl.dev) - Hosted scrape, crawl and search API that returns Markdown or JSON.
